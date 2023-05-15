@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineer based in Vancouver<br>🔭 I’m currently working on my personal portfolio<br>🌱 I’m currently learning TypeScript and Python<br>👯 I’m looking to collaborate on web projects as a full stack developer<br>📫 How to reach me: joao@justwebdevelopers.com<br>⚡ Fun fact: I am former professional Tennis player and currently a Marathoner.<br>💻 Visit my HackerRank profile https://www.hackerrank.com/camarajoao1
+👨‍💻 Software Engineer based in Vancouver<br>🔭 I’m currently working as a freelance Software Engineer<br>🌱 I’m currently learning TypeScript and Python<br>💼 I’m looking to collaborate on web projects as a full stack developer<br>📫 How to reach me: joao@justwebdevelopers.com<br>⚡ Fun fact: I am former professional Tennis player 🎾 and currently a Marathoner 🏃.<br>💻 Visit my Website https://www.justwebdevelopers.com
 
 
 ## 🌐 Socials:
